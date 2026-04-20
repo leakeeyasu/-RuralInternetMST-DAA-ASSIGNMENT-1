@@ -1,23 +1,17 @@
-# 🌐 Rural Internet Connectivity - Minimum Spanning Tree
+# Rural Internet Connectivity - Minimum Spanning Tree
 
-## 📋 Assignment Information
-- **Course:** Algorithm Design and Analysis
-- **Student Name:** Bekele
-- **Roll Number:** 1234
-- **Date:** November 2024
-
-## 🎯 Project Overview
+## Project Overview
 Implementation of Prim's Minimum Spanning Tree algorithm to connect rural villages with minimum fiber optic cable length.
 
-## ✨ Features
-- ✅ Prim's Algorithm with required **near[] array**
-- ✅ 150+ villages (vertices)
-- ✅ Array-based implementation (adjacency matrix)
-- ✅ Step-by-step demonstration with 6 villages
-- ✅ MST verification (|V|-1 edges)
-- ✅ Complexity analysis (O(V²))
+## Features
+- Prim's Algorithm with required **near[] array**
+- 150+ villages (vertices)
+- Array-based implementation (adjacency matrix)
+- Step-by-step demonstration with 6 villages
+- MST verification (|V| - 1 edges)
+- Complexity analysis (O(V²))
 
-## 🚀 How to Run
+## How to Run
 
 ### Prerequisites
 - Java JDK 8 or higher installed
