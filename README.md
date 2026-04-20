@@ -1,2 +1,31 @@
-# -RuralInternetMST-DAA-ASSIGNMENT-1
-RuralInternetMST is a project that builds a low-cost internet network for rural areas using Minimum Spanning Tree (MST). It treats villages as nodes and connection costs as weighted edges. Using Prim’s or Kruskal’s algorithm, it finds the minimum-cost way to connect all locations efficiently and ensure full connectivity.
+# 🌐 Rural Internet Connectivity - Minimum Spanning Tree
+
+## 📋 Assignment Information
+- **Course:** Algorithm Design and Analysis
+- **Student Name:** Bekele
+- **Roll Number:** 1234
+- **Date:** November 2024
+
+## 🎯 Project Overview
+Implementation of Prim's Minimum Spanning Tree algorithm to connect rural villages with minimum fiber optic cable length.
+
+## ✨ Features
+- ✅ Prim's Algorithm with required **near[] array**
+- ✅ 150+ villages (vertices)
+- ✅ Array-based implementation (adjacency matrix)
+- ✅ Step-by-step demonstration with 6 villages
+- ✅ MST verification (|V|-1 edges)
+- ✅ Complexity analysis (O(V²))
+
+## 🚀 How to Run
+
+### Prerequisites
+- Java JDK 8 or higher installed
+
+### Steps
+```bash
+# 1. Compile
+javac RuralInternetMST.java
+
+# 2. Run
+java RuralInternetMST
